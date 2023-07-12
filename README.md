@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning related projects**
 
-- 💬 Ask me about **Artificial Intelligence, Project Management or IT support**
+- 💬 Ask me about **Artificial Intelligence, Project Management, or IT support**
 
 - ⚡ Fun fact  about me: **I love watching sitcoms and reading.**
 
