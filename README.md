@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/just_kekele" target="blank"><img src="https://img.shields.io/twitter/follow/just_kekele?logo=twitter&style=for-the-badge" alt="just_kekele" /></a> </p>
 
-- 🔭 I’m currently working as a **Information Security and Machine learning modules**
-
-- 🌱 I’m currently advancing my knowledge in ** Machine learning with CNN, PyTorch and have started a course in Cloud computing**
+- 🔭 I’m currently harnessing and improving on my Python and Machine learning skillsets.
 
 - 👯 I’m looking to collaborate on **Machine learning related projects**
 
-- 💬 Ask me about **Artificial Intelligence, Project Management, or IT support**
+- 💬 Ask me about **Artificial Intelligence, Information Security, or IT support**
 
 - ⚡ Fun fact  about me: **I love watching sitcoms and reading.**
 
