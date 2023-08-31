@@ -31,7 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekele-star&" alt="kekele-star" /></p>
 
-&show_icons=true&locale=en&layout=compact
-&show_icons=true&locale=en
 
 
