@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently harnessing and improving on my Python and Machine learning skillsets.<br>👯 I’m looking to collaborate on Machine learning related projects<br>🤝 I'm currently building a LLM to analyze market trends and predict price movements in crypto <br>💬 Ask me about anything Computer Science and Deep Learning <br>⚡ Fun fact - I love sitcoms.
+🔭 I’m currently harnessing and improving on my Python and Machine learning skillsets.<br>👯 I’m looking to collaborate on Machine learning related projects<br>🤝 I'm currently building a summarization tools that can condense lengthy texts or articles into shorter, more digestible versions while retaining the key information using LLM  <br>💬 Ask me about anything Computer Science and Deep Learning <br>⚡ Fun fact - I love sitcoms.
 
 
 ## 🌐 Socials:
