@@ -2,7 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently harnessing and improving on my Python and Machine learning skillsets.<br>👯 I’m looking to collaborate on Machine learning related projects<br>🤝 I'm currently building a summarization tools that can condense lengthy texts or articles into shorter, more digestible versions while retaining the key information using LLM  <br>💬 Ask me about anything Computer Science, PMO or Deep Learning 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martha-esinam-kekele-demanya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/just_kekele) 
 
@@ -13,7 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kekele-star&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kekele-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=kekele-star&icon=0&color=0)](https://visitcount.itsvg.in) -->
